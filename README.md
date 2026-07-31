@@ -60,11 +60,14 @@
 ## 📊 GitHub 数据统计
 
 ### 贡献热力图
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wrenxf&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wrenxf&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wrenxf&theme=dark&hide_border=true" />
 </picture>
+</p>
+
 
 
 
