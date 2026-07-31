@@ -58,17 +58,14 @@
 - 项目架构设计、接口规范、日志与异常处理
 
 ## 📊 GitHub 数据统计
-### 总数据卡片
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wrenxf&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrenxf&layout=compact&theme=tokyonight" />
-</p>
-
 
 ### 贡献热力图
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wrenxf&theme=tokyonight" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wrenxf&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wrenxf&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wrenxf&theme=dark&hide_border=true" />
+</picture>
+
 
 
 ## 💬 联系我
