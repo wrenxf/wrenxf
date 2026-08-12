@@ -71,9 +71,5 @@
 
 
 
-## 💬 联系我
-- 邮箱：15984123031@163.com
-- 期待交流后端技术、Go 学习经验，欢迎大佬指点 Issues & PR！
-
 ---
 <p align="center">⭐ Keep coding, Keep growing ⭐</p>
